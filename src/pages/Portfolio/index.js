@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Projects from "../../components/Projects";
 import projects from "../../projects.json";
+import Navbar from "../../components/Navbar";
 
 class Portfolio extends Component {
 
@@ -11,6 +12,8 @@ class Portfolio extends Component {
 render() {
 
     return (
+        <div>
+        <Navbar />
         <div className="container space main">
             <div className="row">
                 <h1 className="buff">
@@ -32,6 +35,7 @@ render() {
             <br></br>
             <br></br>
             <br></br>
+        </div>
         </div>
     )
 };

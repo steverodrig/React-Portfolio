@@ -7,14 +7,14 @@ function Navbar() {
 
     <nav className="navbar navbar-dark bg-dark">
       <Link className="navbar-brand" to="/">
-        Esteephe Rawrigweez
+        Steven Rodriguez
       </Link>
       <button class="navbar-toggler hamburg" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarText">
-        <ul className="navbar-nav">
-          <li className="nav-item mr-auto">
+        <ul className="navbar-nav mr-auto">
+          <li className="nav-item">
             <Link
               to="/contact"
               className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}

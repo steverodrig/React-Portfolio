@@ -1,8 +1,11 @@
 import React from "react";
+import Navbar from "../../components/Navbar";
 
 function Home() {
 
     return (
+        <div>
+        <Navbar />
         <div className="container">
             <div>
                 <img id="img" src="images/headshot.jpg" alt="Headshot" height="250px" width="250px" />
@@ -26,6 +29,7 @@ function Home() {
                         <br></br>
                     </div>
                 </div>
+        </div>
         </div>
     )
 }

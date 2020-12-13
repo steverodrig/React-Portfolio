@@ -1,5 +1,6 @@
 import React from "react";
 import { Component } from "react";
+import Navbar from "../../components/Navbar";
 
 class Contact extends Component {
 
@@ -15,6 +16,8 @@ componentDidMount() {
 
     render () {
     return (
+        <div>
+        <Navbar />
         <div className="container space main">
             <div className="row">
                 <h1 class="buff">
@@ -38,6 +41,7 @@ componentDidMount() {
                     <br></br>
                     <br></br>
             </div>
+        </div>
         </div>
         
     )
