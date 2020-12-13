@@ -18,14 +18,15 @@ componentDidMount() {
     return (
         <div>
         <Navbar />
-        <div className="container space main">
-            <div className="row">
-                <h1 class="buff">
+        <div className="container space">
+            <div className="row mainTwo">
+                <h1 class="buff2">
                     &#9568; Contact &#9571;
                 </h1>
+                <hr></hr>
             </div>
-            <hr></hr>
-            <div className="form-group row">
+            
+            <div className="mainTwo row">
                     <div class="LI-profile-badge margin" data-version="v1" data-size="medium" data-locale="en_US"
                         data-type="vertical" data-theme="dark" data-vanity="steven-rodriguez-029900135">
                     </div>
