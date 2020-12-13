@@ -3,14 +3,15 @@ import React from "react";
 function Portfolio() {
 
     return (
-        <div className="container space">
-            <div className="main row">
+        <div className="container space main">
+            <div className=" row">
                 <h1 className="buff">
                 &#9568; Portfolio &#9571;
                 </h1>
-                <hr class="margin"></hr>
+                
             </div>
-            <div className="main row">
+            <hr></hr>
+            <div className=" row">
                 <div className="card prof col">
                     <img src="images/weather (1).png" class="card-img-top" alt="Weather Dashboard Page"></img>
                     <div class="card-body">
@@ -34,7 +35,7 @@ function Portfolio() {
                     </div>
                 </div>
             </div>
-            <div className="main row">
+            <div className=" row">
                 <div className="card prof col">
                     <img src="https://camo.githubusercontent.com/2d649f7bb0c7370cc8baf022c02b535c613fe888/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f654d6247346a6e6c3570314d4f325a5762622f67697068792e676966" class="card-img-top" alt="Night In"></img>
                     <div class="card-body">
@@ -58,7 +59,7 @@ function Portfolio() {
                     </div>
                 </div>
             </div>
-            <div className="main row">
+            <div className=" row">
                 <div className="card prof col">
                     <img src="images/samswap.png" class="card-img-top" alt="Samurai Swapmeet"></img>
                     <div class="card-body">

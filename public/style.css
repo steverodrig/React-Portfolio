@@ -34,7 +34,7 @@ button:hover {
    margin-top: 100px;
 }
 .margin {
-    margin-left: 10px;
+    margin-left: 20px;
 }
 .footer {
    position: fixed;
@@ -58,5 +58,10 @@ hr {
 .bt {
     max-width: 30%;
     margin-bottom: 10px;
+    padding-left: 25px;
+}
+
+.btn {
+    justify-content: left;
 }
 

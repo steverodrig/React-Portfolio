@@ -7,15 +7,13 @@ function Home() {
             <div>
                 <img id="img" src="images/headshot.jpg" alt="Headshot" height="250px" width="250px" />
             </div>
-            <main className="container">
-                <div className="row main">
+                <div className="container row main">
                     <div className="row">
                         <h1 className="buff">
                             &#9568; About Me &#9571;
-                    </h1>
-                    <hr className="margin"></hr>
+                        </h1>  
                     </div>
-                    
+                    <hr></hr>
                     <div className="row">
                         <section className="buffmin">
                             I have been in the electronics maintenance and repair field for 20 years now. In the last 3 years I also
@@ -28,7 +26,6 @@ function Home() {
                         <br></br>
                     </div>
                 </div>
-            </main>
         </div>
     )
 }
