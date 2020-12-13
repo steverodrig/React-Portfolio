@@ -1,0 +1,38 @@
+[
+    {   
+        "name": "Weather Dashboard",
+        "image": "images/weather (1).png",
+        "deployed": "https://steverodrig.github.io/HW-7-Weather-Dashboard/",
+        "repo": "https://github.com/steverodrig/HW-7-Weather-Dashboard"
+    },
+    {   
+        "name": "Work Day Scheduler",
+        "image": "images/scheduler (1).png",
+        "deployed": "https://steverodrig.github.io/HW-5-Work-Day-Scheduler/",
+        "repo": "https://github.com/steverodrig/HW-5-Work-Day-Scheduler"
+    },
+    {   
+        "name": "Night In",
+        "image": "https://camo.githubusercontent.com/2d649f7bb0c7370cc8baf022c02b535c613fe888/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f654d6247346a6e6c3570314d4f325a5762622f67697068792e676966",
+        "deployed": "https://cascutter.github.io/Project-1-Night-In/",
+        "repo": "https://github.com/cascutter/Project-1-Night-In"
+    },
+    {   
+        "name": "Burger Muncher",
+        "image": "images/Burger (1).png",
+        "deployed": "https://burgermunchout.herokuapp.com/",
+        "repo": "https://github.com/steverodrig/burger"
+    },
+    {   
+        "name": "Samurai Swapmeet",
+        "image": "images/samswap.png",
+        "deployed": "https://samuraiswapmeet.herokuapp.com/",
+        "repo": "https://github.com/rendod99/Project_2"
+    },
+    {   
+        "name": "Fitness Tracker",
+        "image": "images/wrkout.png",
+        "deployed": "https://glacial-ravine-32252.herokuapp.com/?id=5fb5a1f4b55852001769b32d",
+        "repo": "https://github.com/steverodrig/Fitness-Tracker"
+    }
+]
