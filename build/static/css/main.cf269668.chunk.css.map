@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/components/Navbar/style.css"],"names":[],"mappings":"AAAA,0BACI,eACF,CAEF,cACI,iBACJ,CAEA,SACE,iBACF","file":"main.cf269668.chunk.css","sourcesContent":["nav.navbar.navbar-default {\n    margin-bottom: 0;\n  }\n  \n.navbar-brand {\n    padding-left: 20px;\n}\n\n.hamburg {\n  margin-right: 40px;\n}"]}
