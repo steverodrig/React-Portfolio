@@ -3,7 +3,7 @@ button:hover {
 }
 
 .background {
-    background-image: url(images/backimg.jpg);
+    background-image: url(./images/backimg.jpg);
 }
 #img {
     border: 1px solid #ddd;

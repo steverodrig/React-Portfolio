@@ -2,7 +2,7 @@
     {   
         "id":  1,
         "name": "Weather Dashboard",
-        "image": "images/weather (1).png",
+        "image": "/images/weather (1).png",
         "deployed": "https://steverodrig.github.io/HW-7-Weather-Dashboard/",
         "repo": "https://github.com/steverodrig/HW-7-Weather-Dashboard"
     },
@@ -37,8 +37,16 @@
     {   
         "id":  6,
         "name": "Fitness Tracker",
-        "image": "images/wrkout.png",
+        "image": "images/bookfind.png",
         "deployed": "https://glacial-ravine-32252.herokuapp.com/?id=5fb5a1f4b55852001769b32d",
         "repo": "https://github.com/steverodrig/Fitness-Tracker"
+    },
+    {   
+        "id":  7,
+        "name": "Book Finder",
+        "image": "images/wrkout.png",
+        "deployed": "https://gentle-shelf-91474.herokuapp.com/",
+        "repo": "https://github.com/steverodrig/book-finder"
     }
+
 ]

@@ -8,7 +8,7 @@ function Home() {
         <Navbar />
         <div className="container">
             <div>
-                <img id="img" src="images/headshot.jpg" alt="Headshot" height="250px" width="250px" />
+                <img id="img" src="./headshot.jpg" alt="Headshot" height="250px" width="250px" />
             </div>
                 <div className="container row main">
                     <div className="row">

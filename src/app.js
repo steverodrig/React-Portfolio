@@ -5,7 +5,7 @@ import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
-import "./App.css";
+import "./style.css";
 
 function App() {
     document.title = "Portfolio";
